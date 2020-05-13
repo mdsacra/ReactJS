@@ -1,4 +1,4 @@
-#Estudos em ReactJS
+#ReactJS
 
 Just this. I'm studing REACT.JS.
  
